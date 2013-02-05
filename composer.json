@@ -1,0 +1,14 @@
+{
+    "name": "dale/phpickle",
+    "description": "PHP package for support python pickle format",
+    "authors": [
+        {
+            "name": "Terryf",
+            "email": "kristo.iila@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "files": ["phpickle.php"]
+    }
+}
